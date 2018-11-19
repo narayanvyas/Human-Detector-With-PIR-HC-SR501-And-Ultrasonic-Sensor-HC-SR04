@@ -1,5 +1,7 @@
 /*  Human Detector Within Specified Range Using PIR Motion Sensor And Ultrasonic Distance Sensor
  * 
+ * GitHub URL - https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04
+ * 
  *  Developed By Web Dev Fusion
  *  URL - https://www.webdevfusion.com
  *  
