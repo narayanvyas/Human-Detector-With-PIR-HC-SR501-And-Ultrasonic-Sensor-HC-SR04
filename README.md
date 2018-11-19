@@ -1,5 +1,5 @@
 # Human Detection With Arduino
-Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
+Human Detector With PIR HC SR501 And Ultrasonic Distance Sensor HC-SR04.
 
 ## Prerequisites
 1. Arduino Uno R3
@@ -21,7 +21,7 @@ Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 [Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-Thanks To [Peter Dalmaris](https://github.com/futureshocked) for the inspiriation
+Thanks to [Peter Dalmaris](https://github.com/futureshocked) for the inspiriation.
