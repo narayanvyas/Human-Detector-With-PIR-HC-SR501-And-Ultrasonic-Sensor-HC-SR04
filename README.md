@@ -18,11 +18,11 @@ Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 ![Circuit Diagram](https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04/blob/master/Circuit%20Diagram.jpeg)
 
 ## Authors
-[Narayan Vyas](https://www.narayanvyas.org){:target="_blank"} - [Web Dev Fusion](https://www.webdevfusion.com){:target="_blank"}
+[Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
 See also the list of contributors who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
-Thanks To Peter Dalmaris -  https://github.com/futureshocked for the inspiriation
+Thanks To [Peter Dalmaris](https://github.com/futureshocked) -  for the inspiriation
