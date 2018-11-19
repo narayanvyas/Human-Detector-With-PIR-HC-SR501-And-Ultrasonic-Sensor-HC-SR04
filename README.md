@@ -16,6 +16,12 @@ Prerequisites
 7. Buzzer
 8. Jumper Wires
 
+Breadboard Diagram -
+![Breadboard Diagram](https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04/blob/master/Breadboard%20Diagram.jpeg)
+
+Circuit Diagram -
+![Circuit Diagram](https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04/blob/master/Circuit%20Diagram.jpeg)
+
 Authors
 Narayan Vyas - Web Dev Fusion
 See also the list of contributors who participated in this project.
