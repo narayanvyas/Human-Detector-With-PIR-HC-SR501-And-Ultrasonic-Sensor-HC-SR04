@@ -5,7 +5,7 @@ Human Detector With PIR HC SR501 And Ultrasonic Distance Sensor HC-SR04.
 1. Arduino Uno R3
 2. Arduino IDE
 3. HC-SR501 PIR Motion Sensor
-4. HC-Sr04 Ultrasonic Distance Sensor
+4. HC-SR04 Ultrasonic Distance Sensor
 5. Breadboard / PCB
 6. LED
 7. Buzzer
