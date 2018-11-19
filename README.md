@@ -1,4 +1,5 @@
-# Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
+# Human Detection With Arduino
+Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 
 ## Prerequisites
 1. Arduino Uno R3
@@ -10,18 +11,18 @@
 7. Buzzer
 8. Jumper Wires
 
-# Breadboard Diagram -
+## Breadboard Diagram -
 ![Breadboard Diagram](https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04/blob/master/Breadboard%20Diagram.jpeg)
 
-# Circuit Diagram -
+## Circuit Diagram -
 ![Circuit Diagram](https://github.com/narayanvyas/Human-Detector-With-PIR-HC-SR501-And-Ultrasonic-Sensor-HC-SR04/blob/master/Circuit%20Diagram.jpeg)
 
-# Authors
+## Authors
 Narayan Vyas - Web Dev Fusion
 See also the list of contributors who participated in this project.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-# Acknowledgments
+## Acknowledgments
 Thanks To Peter Dalmaris -  https://github.com/futureshocked for the inspiriation
