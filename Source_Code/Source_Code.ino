@@ -21,14 +21,14 @@
  * Connections
  * -----------
  *  Break out    |    Arduino Uno
- *  -----------------------------
- *      PIR VCC             |        5V
- *      PIR GND             |        GND
- *      PIR OUT             |        3
- *      Ultrasonic VCC      |        5V
- *      Ultrasonic GND      |        GND
- *      Ultrasonic Echo     |        12
- *      Ultrasonic Trig     |        13
+ *  --------------------------------------------
+ *      PIR VCC                 |        5V
+ *      PIR GND                 |        GND
+ *      PIR OUT                 |        3
+ *      Ultrasonic VCC          |        5V
+ *      Ultrasonic GND          |        GND
+ *      Ultrasonic Echo         |        12
+ *      Ultrasonic Trigger      |        13
  *      
  * Also connect an LED to simulate a controlled device. 
  *           220 Ohm
