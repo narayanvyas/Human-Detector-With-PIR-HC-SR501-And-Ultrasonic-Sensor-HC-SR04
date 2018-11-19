@@ -19,7 +19,6 @@ Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 
 ## Authors
 [Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
-See also the list of contributors who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
