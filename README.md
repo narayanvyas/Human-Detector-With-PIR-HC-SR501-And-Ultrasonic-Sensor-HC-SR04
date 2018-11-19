@@ -1,7 +1,6 @@
-# Project Title
-Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
+# Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 
-# Prerequisites
+## Prerequisites
 1. Arduino Uno R3
 2. Arduino IDE
 3. HC-SR501 PIR Motion Sensor
