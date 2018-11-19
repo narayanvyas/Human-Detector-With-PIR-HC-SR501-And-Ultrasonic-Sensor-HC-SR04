@@ -24,4 +24,4 @@ Human Detector With PIR HC SR501 And Ultrasonic Sensor HC-SR04
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
-Thanks To [Peter Dalmaris](https://github.com/futureshocked) -  for the inspiriation
+Thanks To [Peter Dalmaris](https://github.com/futureshocked) for the inspiriation
